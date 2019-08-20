@@ -1,6 +1,7 @@
 main: one.sweptthr.ljsplugin.Main
 name: LJSPlugin
-version: U0
+version: 2
+api-version: 1.14
 author: SweptThrone
 description: Move back and forth from a survival world with ease.
 commands:
