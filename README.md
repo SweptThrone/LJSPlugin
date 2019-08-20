@@ -1,6 +1,6 @@
 # LJS (Literally Just Survival) Plugin
 #### by SweptThrone (sweptthr.one)
-#### - Update 0 -
+#### - Version 2 -
 
 LJS is a simple plugin for Minecraft Spigot servers
 designed to allow your players to to teleport back
