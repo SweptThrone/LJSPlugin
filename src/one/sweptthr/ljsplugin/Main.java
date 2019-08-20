@@ -36,6 +36,9 @@ public class Main extends JavaPlugin {
 		}
 		ljsWorld = Bukkit.getWorld( "LJSurvival" );
 		getServer().getPluginManager().registerEvents( new DeathListener( this ), this );
+		getServer().getPluginManager().registerEvents( new JoinListener( this ), this );
+		getServer().getPluginManager().registerEvents( new RespawnListener( this ), this );
+		getServer().getPluginManager().registerEvents( new WorldChangeListener( this ), this );
 		getLogger().info( "Event listener registered." );
 	}
 	
