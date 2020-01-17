@@ -2,6 +2,11 @@
 #### by SweptThrone (sweptthr.one)
 #### - Version 2 -
 
+[!] Something went wrong when I was using this on
+my server, and it may happen if you've found this
+too.  If I care more about this later, I'll try
+learning how to fix it. [!]
+
 LJS is a simple plugin for Minecraft Spigot servers
 designed to allow your players to to teleport back
 and forth to a plain survival server with ease.
