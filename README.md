@@ -12,9 +12,9 @@ and forth to a plain survival server with ease.
   
 Upon initial startup, your server will generate a  
 new blank world called LJSurvival.  To access this  
-world, type /ljs join in-game.  You will be  
+world, type `/ljs join` in-game.  You will be  
 teleported to this new world, and able to play. If  
-you type /ljs leave, you will leave the world and  
+you type `/ljs leave`, you will leave the world and  
 return to where you were before, with everything  
 you had before.  
 
